@@ -12,10 +12,18 @@
 💬 Ask me about **Java SpringBoot, Typescript, React**...
 
 ⚡ Fun fact **In Assassin’s Creed 2 you can spot a Teenage Mutant Ninja Turtles reference hidden in the sewers of Venice!**
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fakroun/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohfakroun@gmail.com) 
-
+<div align="center"> 
+  <a href="mailto:mohfakroun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mohamed-fakroun" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.peachr.co.uk" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
 # 💻 Tech Stack:
