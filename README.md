@@ -4,9 +4,14 @@
 
 
 <div align="center">
-# 💫 About Me:
-🔭 I’m currently working on Peachr Payments ~ An easier way for patients to pay for private dental care<br>🌱 I’m currently learning Spanish<br>💬 Ask me about Java, Typescript<br>
 
+🔭 I’m currently working on **Peachr Payments** ~ An easier way for patients to pay for private dental care
+
+🌱 I’m currently learning **Web3** and **BlockChain Development**
+
+💬 Ask me about **Java SpringBoot**, **Typescript**, **React**...
+
+⚡ Fun fact **In Assassin’s Creed 2 you can spot a Teenage Mutant Ninja Turtles reference hidden in the sewers of Venice!**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fakroun/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohfakroun@gmail.com) 
