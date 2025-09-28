@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF520600&width=435&lines=Hi+There%2C+I'm+Mohamed%F0%9F%91%8B;A+digital+craftsman%2C)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Peachr Payments ~ An easier way for patients to pay for private dental care<br>🌱 I’m currently learning Spanish<br>💬 Ask me about Java, Typescript<br>
 
