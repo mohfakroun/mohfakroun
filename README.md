@@ -7,9 +7,9 @@
 
 🔭 I’m currently working on **Peachr Payments** ~ An easier way for patients to pay for private dental care
 
-🌱 I’m currently learning **Web3** and **BlockChain Development**
+🌱 I’m currently learning **Web3 and BlockChain Development**
 
-💬 Ask me about **Java SpringBoot**, **Typescript**, **React**...
+💬 Ask me about **Java SpringBoot, Typescript, React**...
 
 ⚡ Fun fact **In Assassin’s Creed 2 you can spot a Teenage Mutant Ninja Turtles reference hidden in the sewers of Venice!**
 
